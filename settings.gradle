@@ -1,0 +1,2 @@
+include ':app', ':flowlm2'
+rootProject.name='FlowLM'
